@@ -44,6 +44,6 @@ Evaluated the proposed features using Reach, Impact, Confidence and Effort.
 - Microsoft Excel
 
 ## Project Deliverable
-[View Project Presentation](Hunch%20Deck.pdf)
+[View Hunch Project Presentation](./Hunch_Presentation.pdf)
 
 **Project Focus:** Product Strategy | Market Research | Competitive Analysis | User Engagement | RICE Prioritization | Go-to-Market Strategy
